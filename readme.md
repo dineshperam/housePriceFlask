@@ -87,12 +87,14 @@ Pickle load function is used to load the model data in flask API. App route('/')
 <br>
 
 Finally, create simple form in html<br>
+
 <img src='https://github.com/dineshperam/housePriceFlask/blob/main/projimages/img%201.8.png'></img>
 <br>
 <br>
 
 ## Preview:
 1. Submission form:
+
 <img src='https://github.com/dineshperam/housePriceFlask/blob/main/projimages/img%201.9.png'></img>
 <br>
 <br>
@@ -110,7 +112,6 @@ Finally, create simple form in html<br>
 ```
 pip install -r .\requirements.txt
 ```
-<br>
 <br>
 
 ## Conclusion:
