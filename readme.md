@@ -99,7 +99,7 @@ Finally, create simple form in html<br>
 <br>
 <br>
 
-2. Result in IDE VS code:
+2. Results:
 
 <img src='https://github.com/dineshperam/housePriceFlask/blob/main/projimages/img%201.91.png'></img>
 <br>
