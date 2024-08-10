@@ -31,6 +31,7 @@ The first step of model prediction is to understand the data. It is more importa
 ### Step 2: Import the Packages
 
 Create a python file (for example house.py). After installed the required packages, import packages  in your python file.<br>
+
 <img src='https://github.com/dineshperam/housePriceFlask/blob/main/projimages/img%201.1.png'></img>
 <br>
 <br>
@@ -38,6 +39,7 @@ Create a python file (for example house.py). After installed the required packag
 ### Step 3: Import the data
 
 Next, import the data using pandas<br>
+
 <img src='https://github.com/dineshperam/housePriceFlask/blob/main/projimages/img%201.2.png'></img>
 <br>
 <br>
@@ -45,6 +47,7 @@ Next, import the data using pandas<br>
 ### Step 4: Feature Selection 
 
 Remove the unwanted features (Columns), now choose columns are  number of bedrooms, number of bathrooms, number of floors, year of build, and price of the house. In price of the house is the target value. We trained the model in the other four columns to find the price of the house.<br>
+
 <img src='https://github.com/dineshperam/housePriceFlask/blob/main/projimages/img%201.3.png'></img>
 <br>
 <br>
@@ -105,7 +108,7 @@ Finally, create simple form in html<br>
 
 1. After Downloading/cloning the project install the necessary requirements.txt, use the command:<br><br>
 ```
-pip install requirements.txt
+pip install -r .\requirements.txt
 ```
 <br>
 <br>
